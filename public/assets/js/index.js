@@ -26,7 +26,7 @@ const hide = (elem) => {
 let activeNote = {};
 
 const getNotes = () =>
-  fetch('./routes/notes', {
+  fetch('/routes/notes.js', {
     method: 'GET',
     headers: {
       'Content-Type': 'application/json',
