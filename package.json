@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/jHopkins42/miniature-eureka#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "node": "^19.8.1"
   }
 }
