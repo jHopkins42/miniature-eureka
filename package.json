@@ -1,0 +1,22 @@
+{
+  "name": "miniature-eureka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jHopkins42/miniature-eureka.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jHopkins42/miniature-eureka/issues"
+  },
+  "homepage": "https://github.com/jHopkins42/miniature-eureka#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
